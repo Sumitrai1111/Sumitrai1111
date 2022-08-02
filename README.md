@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 I'm
-Full Stack Developer
+Full Stack Developer.
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript), database(MongoDB,Mysql)..!!
 
 
